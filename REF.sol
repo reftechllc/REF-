@@ -6,8 +6,8 @@
             
            3% fee auto added to liquidity
            5% fee auto distributed to all hodlers
-           2% fee auto sent to the Marketing Address
-           0% fee auto sent to the Burn Address
+           1% fee auto sent to the Marketing Address
+           1% fee auto sent to the Burn Address
            
 */
 
